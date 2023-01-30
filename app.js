@@ -18,7 +18,7 @@ if(input == ""){
 
 }else{
 
-    const apiKey = 'PqtcDIWPrx5KPAqHRWU6jg==k77M1FxGaJI6JSx4'
+    const apiKey = ''
 
 const url = 'https://api.api-ninjas.com/v1/cars?model='+input
 // fetch(url + input,{headers: { 'Accept' : 'PqtcDIWPrx5KPAqHRWU6jg==k77M1FxGaJI6JSx4' }})
